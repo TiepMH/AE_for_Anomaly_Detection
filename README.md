@@ -10,6 +10,6 @@ However, if Eve impersonates Bob, then the BS must be capable of detecting if it
 The goal is to detect if the signal received at the BS is associated with a spoofing attack or not.
 
 ---
-Style:
+Styles:
 - Object-oriented programming
 - PEP 8
