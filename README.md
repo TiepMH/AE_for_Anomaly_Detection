@@ -1,4 +1,4 @@
-# AE_for_Anomaly_Detection
+# Auto-Encoder for Anomaly Detection
 
 A system that consists of one legitimate user and one eavesdropper is considered.
 
